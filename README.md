@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![hyungoo's github stats](https://github-readme-stats.vercel.app/api?username=hyungoo7703)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **hyungoo7703/hyungoo7703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
